@@ -1,6 +1,6 @@
 # 👋 Hi, I'm APH
 
-### Web Developer (PHP Laravel & React)
+### Web Developer (Laravel & React)
 I build web applications using **Laravel**, **React**, **MySQL**, and modern development tools.  
 Currently improving my backend skills and sharpening my full-stack workflow.
 
