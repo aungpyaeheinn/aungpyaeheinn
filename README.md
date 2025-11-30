@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm APH
 
-<!--
-**aungpyaeheinn/aungpyaeheinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer (PHP Laravel & React)
+I build web applications using **Laravel**, **React**, **MySQL**, and modern development tools.  
+Currently improving my backend skills and sharpening my full-stack workflow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech I Work With
+
+### 🌐 Backend
+- **PHP** / **Laravel**
+- REST APIs
+- Authentication & Authorization
+- MVC Architecture
+- Database Migrations & Eloquent ORM
+
+### 🎨 Frontend
+- **React**
+- JavaScript (ES6+)
+- Tailwind CSS
+- Axios / Fetch API
+
+### 🗄 Databases
+- **MySQL**
+- Query Builder & Relationships
+
+### 🐧 Systems & Tools
+- Linux (beginner—learning daily)
+- Docker (learning basics)
+- Git / GitHub (branches, commits, pull requests)
+
+---
+
+## 📘 What I'm Learning Now
+- Real-world project structure & clean code
+
+---
+
+## 🛠 Projects
+- 
+- More personal projects coming…
+
+---
+
+## 📫 Reach Me
+- GitHub: *aungpyaeheinn*
+- Email: *aunggpyaehein@gmail.com*
+
+---
+
+⭐️ *Always building. Always improving.*  
