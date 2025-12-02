@@ -44,7 +44,7 @@ Currently improving my backend skills and sharpening my full-stack workflow.
 ---
 
 ## 📫 Reach Me
-- GitHub: *aungpyaeheinn*
+
 - Email: *aunggpyaehein@gmail.com*
 
 ---
