@@ -37,4 +37,4 @@ Git, GitHub, Docker (Basic), Linux (Foundational)
 ---
 
 ## 🎯 Current Goal
-Seeking a role to deliver value as a contributing Full-Stack developer.
+Seeking a role to deliver value as a contributing Junior developer.
