@@ -1,52 +1,40 @@
-# 👋 Hi, I'm APH
+# 👋 Hi, I'm Aung Pyae Hein
 
-### Web Developer (Laravel & React)
-I build web applications using **Laravel**, **React**, **MySQL**, and modern development tools.  
-Currently improving my backend skills and sharpening my full-stack workflow.
+**Web Developer | Laravel & Modern JavaScript Frameworks**
 
----
-
-## 🚀 Tech I Work With
-
-### 🌐 Backend
-- **PHP** / **Laravel**
-- REST APIs
-- Authentication & Authorization
-- MVC Architecture
-- Database Migrations & Eloquent ORM
-
-### 🎨 Frontend
-- **React**
-- JavaScript (ES6+)
-- Tailwind CSS
-- Axios / Fetch API
-
-### 🗄 Databases
-- **MySQL**
-- Query Builder & Relationships
-
-### 🐧 Systems & Tools
-- Linux (beginner—learning daily)
-- Docker (learning basics)
-- Git / GitHub (branches, commits, pull requests)
+I learn & build scalable web applications from API to UI, specializing in the Laravel ecosystem and dynamic frontends.
 
 ---
 
-## 📘 What I'm Learning Now
-- Real-world project structure & clean code
+## 🚀 What I'm Focused On
+- Building clean, performant RESTful APIs with Laravel (PHP)  
+- Developing responsive and component-based UIs with React and Vue.js   
+- Deepening my understanding of clean code architecture and deployment best practices  
 
 ---
 
-## 🛠 Projects
-- 
-- More personal projects coming…
+## 💻 Languages and Tools
+
+### Backend & Data
+PHP, Laravel, MySQL, REST APIs  
+
+### Frontend & UI
+React, Vue.js, JavaScript (ES6+), HTML5, CSS3 
+
+### Styling
+Tailwind CSS, Bootstrap  
+
+### Tooling
+Git, GitHub, Docker (Basic), Linux (Foundational)  
 
 ---
 
-## 📫 Reach Me
-
-- Email: *aunggpyaehein@gmail.com*
+## 📫 Connect with me
+- GitHub: [aungpyaeheinn](https://github.com/aungpyaeheinn)  
+- Email: aungpyaehein@gmail.com  
+- LinkedIn: [](#)  
 
 ---
 
-⭐️ *Always building. Always improving.*  
+## 🎯 Current Goal
+Seeking a role to deliver value as a contributing Full-Stack developer.
