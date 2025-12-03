@@ -2,39 +2,58 @@
 
 **Entry-Level Web Developer | Laravel & Modern JavaScript Frameworks**
 
-I learn & build scalable web applications from API to UI, specializing in the Laravel ecosystem and dynamic frontends.
+I build scalable web applications from API to UI, focusing on clean, maintainable code. I have experience in Laravel for backend development and React.js for dynamic frontends.
 
 ---
 
-## 🚀 What I'm Focused On
-- Building clean, performant RESTful APIs with Laravel (PHP)  
-- Developing responsive and component-based UIs with React and Vue.js   
-- Deepening my understanding of clean code architecture and deployment best practices  
+## 🚀 Skills
 
----
+### Backend
+- PHP, Laravel, MySQL, REST APIs
 
-## 💻 Languages and Tools
-
-### Backend & Data
-PHP, Laravel, MySQL, REST APIs  
-
-### Frontend & UI
-React, Vue.js, JavaScript (ES6+), HTML5, CSS3 
+### Frontend
+- JavaScript (ES6+), React, Vue.js, HTML5, CSS3
 
 ### Styling
-Tailwind CSS, Bootstrap  
+- Tailwind CSS, Bootstrap
 
-### Tooling
-Git, GitHub, Docker (Basic), Linux (Foundational)  
+### Tools & Workflow
+- Git, GitHub, Docker (Basic), Linux (Foundational)
 
 ---
 
-## 📫 Connect with me
-- GitHub: [aungpyaeheinn](https://github.com/aungpyaeheinn)  
+## 💻 Experience
+**Laravel Intern (3 months)**
+- Built and maintained backend APIs with Laravel
+- Helped create and improve UI components with React in Laravel projects
+- Worked with databases (MySQL) and integrated RESTful APIs
+- Gained hands-on experience with collaborative development
+
+---
+
+## 📂 Projects
+Here are some projects that demonstrate my skills:
+
+- **[Project Name 1](#)** – 
+- **[Project Name 2](#)** – 
+- **[Project Name 3](#)** – 
+
+> 
+
+---
+
+## 🌱 Currently Learning
+- Building small projects with Laravel and React/Vue  
+- Improving basic frontend and backend skills  
+- Understanding how to connect APIs with frontend interfaces
+- 
+---
+
+## 📫 Connect with Me
+
 - Email: aungpyaehein@gmail.com  
-- LinkedIn: [](#)  
 
 ---
 
-## 🎯 Current Goal
-Seeking a role to deliver value as a contributing Junior Web developer.
+## 🎯 Goal
+Looking for a **junior web developer role** to apply my skills, learn from real projects, and grow as a developer.
