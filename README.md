@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aung Pyae Hein
 
-**Web Developer | Laravel & Modern JavaScript Frameworks**
+**Entry-Level Web Developer | Laravel & Modern JavaScript Frameworks**
 
 I learn & build scalable web applications from API to UI, specializing in the Laravel ecosystem and dynamic frontends.
 
@@ -37,4 +37,4 @@ Git, GitHub, Docker (Basic), Linux (Foundational)
 ---
 
 ## 🎯 Current Goal
-Seeking a role to deliver value as a contributing Junior developer.
+Seeking a role to deliver value as a contributing Junior Web developer.
