@@ -18,7 +18,7 @@ I build scalable web applications from API to UI, focusing on clean, maintainabl
 - Tailwind CSS, Bootstrap
 
 ### Tools & Workflow
-- Git, GitHub, Docker (Basic), Linux (Foundational)
+- Git, GitHub, Postman, Docker (Basic), Linux (Foundational)
 
 ---
 
