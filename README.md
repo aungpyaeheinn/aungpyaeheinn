@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aung Pyae Hein
 
-**Entry-Level Web Developer | Laravel & Modern JavaScript Frameworks**
+**Entry-Level Web Developer**
 
 I learn & build scalable web applications from API to UI, focusing on clean, maintainable code. I have experience in Laravel for backend development and React.js for dynamic frontends.
 
