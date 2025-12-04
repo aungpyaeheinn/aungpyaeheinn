@@ -40,7 +40,7 @@ I learn & build scalable web applications from API to UI, focusing on clean, mai
 
 ## 📫 Connect with Me
 
-- Email: aungpyaehein@gmail.com  
+- Email: aunggpyaehein@gmail.com  
 
 ---
 
