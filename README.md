@@ -12,7 +12,7 @@ I learn & build scalable web applications from API to UI, focusing on clean, mai
 - PHP, Laravel, MySQL, REST APIs
 
 ### Frontend
-- JavaScript (ES6+), React, Vue.js, HTML5, CSS3
+- JavaScript (ES6+), React.js, Vue.js, HTML5, CSS3
 
 ### Styling
 - Tailwind CSS, Bootstrap
@@ -43,7 +43,7 @@ Here are some projects that demonstrate my skills:
 ---
 
 ## 🌱 Currently Learning
-- Building small projects with Laravel and React/Vue  
+- Building small projects with Laravel and React.js
 - Improving basic frontend and backend skills  
 - Understanding how to connect APIs with frontend interfaces
   
