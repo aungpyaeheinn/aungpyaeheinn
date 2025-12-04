@@ -28,18 +28,7 @@ I learn & build scalable web applications from API to UI, focusing on clean, mai
 - Helped create and improve UI components with React in Laravel projects
 - Worked with databases (MySQL) and integrated RESTful APIs
 - Gained hands-on experience with collaborative development
-
----
-
-## 📂 Projects
-Here are some projects that demonstrate my skills:
-
-- **[Project Name 1](#)** – 
-- **[Project Name 2](#)** – 
-- **[Project Name 3](#)** – 
-
-> 
-
+- 
 ---
 
 ## 🌱 Currently Learning
