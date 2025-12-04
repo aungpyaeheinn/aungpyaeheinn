@@ -2,7 +2,7 @@
 
 **Entry-Level Web Developer | Laravel & Modern JavaScript Frameworks**
 
-I build scalable web applications from API to UI, focusing on clean, maintainable code. I have experience in Laravel for backend development and React.js for dynamic frontends.
+I learn & build scalable web applications from API to UI, focusing on clean, maintainable code. I have experience in Laravel for backend development and React.js for dynamic frontends.
 
 ---
 
@@ -46,7 +46,7 @@ Here are some projects that demonstrate my skills:
 - Building small projects with Laravel and React/Vue  
 - Improving basic frontend and backend skills  
 - Understanding how to connect APIs with frontend interfaces
-- 
+  
 ---
 
 ## 📫 Connect with Me
