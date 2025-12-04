@@ -9,7 +9,7 @@ I learn & build scalable web applications from API to UI, focusing on clean, mai
 ## 🚀 Skills
 
 ### Backend
-- PHP, Laravel, MySQL, REST APIs
+- PHP, Laravel, MySQL, RESTFUL APIs
 
 ### Frontend
 - JavaScript (ES6+), React.js, Vue.js, HTML5, CSS3
