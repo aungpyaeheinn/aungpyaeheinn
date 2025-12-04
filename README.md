@@ -23,7 +23,7 @@ I learn & build scalable web applications from API to UI, focusing on clean, mai
 ---
 
 ## 💻 Experience
-**Laravel Intern (3 months)**
+**Laravel Intern (Aug 2025 - Oct 2025)**
 - Built and maintained backend APIs with Laravel
 - Helped create and improve UI components with React in Laravel projects
 - Worked with databases (MySQL) and integrated RESTful APIs
