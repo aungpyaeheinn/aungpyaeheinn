@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=aungpyaeheinn)
+
 # 👋 Hi, I'm Aung Pyae Hein
 
 **Entry-Level Web Developer**
